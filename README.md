@@ -8,3 +8,32 @@ First code file, height_calc.py is used to calculate the height of a person stan
 Further, two more files shoulders_width.py and waiste.py calculates the waiste and shoulders of the person.
 One more file in future will be uploaded which extracts the facial features of a person.
 All these files will be integrated to be used for the generation of the human 3D model.
+
+
+
+## Setup
+Download [Node.js](https://nodejs.org/en/download/).
+Run this followed commands:
+
+``` bash
+# Install dependencies (only the first time)
+npm install
+
+# Run the local server at localhost:8080
+npm run dev
+
+# Build for production in the dist/ directory
+npm run build
+```
+<!-- Cloth Modeling References -->
+https://github.com/dataarts/dat.gui
+https://stackoverflow.com/questions/20153705/three-js-wireframe-material-all-polygons-vs-just-edges
+https://stackoverflow.com/questions/57810444/updating-value-with-dat-gui-three-js
+https://threejs.org/docs/index.html#examples/en/loaders/GLTFLoader
+https://github.com/mrdoob/three.js/
+https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene
+
+
+Human 3D modeling from 2D image:
+https://github.com/facebookresearch/pifuhd
+https://github.com/QianliM/CAPE
