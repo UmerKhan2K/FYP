@@ -1,4 +1,4 @@
-# FYP
+# VTR
 
 A virtual try room provides the service to customers to try on clothes without touching them and wearing them physically. VTR works by taking the live video feed of the user standing infront of the camera and measures their dimensions like height, shoulders, waist, facial features, etc to generate their realistic looking 3D model.
 The user further selects the clothes and the size they want to try on. These 3D clothes are mapped onto the person's model resulting in an output which can be viewed 360 degrees by the user.
