@@ -4,7 +4,12 @@ A virtual try room provides the service to customers to try on clothes without t
 The user further selects the clothes and the size they want to try on. These 3D clothes are mapped onto the person's model resulting in an output which can be viewed 360 degrees by the user.
 	The 3D cloth model is an essential part because just mapping the texture on the model will not enable the user to make a good decision. Also, making the clothes look natural on the model is important for the success of the project.
 
+#PIFU resources:
+https://arxiv.org/pdf/2004.00452.pdf
+https://github.com/facebookresearch/pifuhd
 
+#Cloth Modeling resources:
+https://github.com/VishalSainani/Cloth-Modeling
 
 
 
